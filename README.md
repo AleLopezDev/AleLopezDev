@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alelopezdev&label=Profile%20views&color=0e75b6&style=flat" alt="alelopezdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alelopezdev&label=Profile%20views&color=0056d6&style=flat" alt="alelopezdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alelopezdev" alt="alelopezdev" /></a> </p>
 
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alelopezdev&show_icons=true&theme=dark&locale=en&layout=compact" alt="alelopezdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alelopezdev&show_icons=true&locale=en" alt="alelopezdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alelopezdev&show_icons=true&theme=dark&locale=en" alt="alelopezdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alelopezdev&" alt="alelopezdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alelopezdev&theme=dark" alt="alelopezdev" /></p>
