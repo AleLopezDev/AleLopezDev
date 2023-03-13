@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alelopezdev" alt="alelopezdev" /></a> </p>
 
+<img https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif/>
+
 - 🌱 I’m currently learning **React Native, Javascript, PHP**
 
 - 💬 Ask me about **Android, Java, .NET, MongoDB, SQL**
