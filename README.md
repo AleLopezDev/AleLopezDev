@@ -53,7 +53,7 @@
 
 [<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/alejandrolopezaguilardev/)
 [<img src="https://img.icons8.com/fluency/48/github.png" width="40"/>](https://github.com/AleLopezDev)
-[<img src="https://img.icons8.com/fluency/48/web.png" width="40"/>](https://hackalex.com)
+[<img src="https://img.icons8.com/fluency/48/globe.png" width="40"/>](https://hackalex.com)
 
 
 ---
