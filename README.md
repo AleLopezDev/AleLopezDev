@@ -43,9 +43,9 @@
 ---
 
 ## 🚩 Featured Projects
-- 🔹 [**Pentesting Lab**](#) – Custom vulnerable network for training  
-- 🔹 [**AutoRecon Script**](#) – Automated recon & scanning in Python  
-- 🔹 [**Privilege Escalation Notes**](#) – Techniques for Linux/Windows escalation  
+- 🔹 [**Shellcode Injection (Syscalls & WinAPI)**](https://github.com/AleLopezDev/shellcode_injection_syscall) – Educational shellcode injection in C using native syscalls  
+- 🔹 [**CheckGtfoBin**](https://github.com/AleLopezDev/CheckGtfoBin) – Scans binaries to detect privilege escalation vectors via Sudo/SUID using GTFObins written in Python
+- 🔹 [**otpForcer**](https://github.com/AleLopezDev/otpForcer) – Multithreaded Python tool to brute force 6-digit OTP codes against vulnerable endpoints 
 
 ---
 
