@@ -1,26 +1,79 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A developer from Spain</h3>
+<div align="center" width="50">
+    <img alt="banner" src="./assets/hacker-banner.png" width="300"/>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alejandro López Aguilar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alelopezdev&label=Profile%20views&color=0056d6&style=flat-square" alt="alelopezdev" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/AleLopezDev?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/AleLopezDev?style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AleLopezDev.repoName)
+<img src="https://komarev.com/ghpvc/?username=AleLopezDev" alt="profile views" />
 
-- 🌱 I’m currently learning **React Native, Javascript, PHP**
+---
 
-- 💬 Ask me about **Android, Java, .NET, MongoDB, SQL**
+## 🧠 About Me
 
-- 📫 How to reach me **alejandrolopezaguilar.dev@gmail.com**
+- 🧑‍💻 **Ethical Hacker & Pentester**
+- 💣 **CPTS Certified** (Hack The Box)
+- 🔍 Passionate about **Offensive Security**, **Network Exploitation**, and **Red Teaming**
+- 🚩 *Building labs, breaking systems, and documenting everything*
+- 🧠 Always learning: **Active Directory Attacks**, **Privilege Escalation**, **Automation**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejandro-lópez-aguilar-53789b255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-lópez-aguilar-53789b255" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+## 🧰 Skills & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alelopezdev&show_icons=true&locale=en&layout=compact" alt="alelopezdev" /></p>
+### 🧠 Offensive Security
+<img src="https://img.icons8.com/fluency/48/000000/linux.png"/> 
+<img src="https://img.icons8.com/fluency/48/000000/bash.png"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/metasploit.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/networking-manager.png"/>
+<img src="https://img.icons8.com/color/48/000000/active-directory.png"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alelopezdev&show_icons=true&locale=en" alt="alelopezdev" /></p>
+### 🧰 Tools
+- 🕵️‍♂️ **Nmap**, **Burp Suite**, **Metasploit**, **BloodHound**, **CrackMapExec**
+- 🐍 **Python**, **Bash**, **PowerShell**
+- 🧱 Virtualization: **VirtualBox**, **Proxmox**, **Docker**
+- 📡 Networking, OSINT & Reporting
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alelopezdev&theme=default" alt="alelopezdev" /></p>
+---
+
+## 🚩 Featured Projects
+- 🔹 [**Pentesting Lab**](#) – Custom vulnerable network for training  
+- 🔹 [**AutoRecon Script**](#) – Automated recon & scanning in Python  
+- 🔹 [**Privilege Escalation Notes**](#) – Techniques for Linux/Windows escalation  
+
+---
+
+## ☕ Connect with Me
+
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/TU-LINKEDIN/)
+[<img src="https://img.icons8.com/fluency/48/github.png" width="40"/>](https://github.com/AleLopezDev)
+[<img src="https://img.icons8.com/fluency/48/hack-the-box.png" width="40"/>](https://app.hackthebox.com/profile/TUID)
+[<img src="https://img.icons8.com/fluency/48/tryhackme.png" width="40"/>](https://tryhackme.com/p/TUUSUARIO)
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AleLopezDev&theme=algolia)](https://git.io/streak-stats)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=AleLopezDev&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleLopezDev&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AleLopezDev&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AleLopezDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+💬 *“The quieter you become, the more you are able to hear.”*  
+🧠 *Break systems, learn deeply, document always.*
