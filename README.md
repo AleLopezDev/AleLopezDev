@@ -15,27 +15,30 @@
 
 - 🧑‍💻 **Ethical Hacker & Pentester**
 - 💣 **CPTS Certified** (Hack The Box)
-- 🔍 Passionate about **Offensive Security**, **Network Exploitation**, and **Red Teaming**
+- 🔍 Focused on **Offensive Security**, **Network Exploitation**, and **Red Teaming**
 - 🚩 *Building labs, breaking systems, and documenting everything*
-- 🧠 Always learning: **Active Directory Attacks**, **Privilege Escalation**, **Automation**
+- 🧠 Currently learning **Malware Development in C**
+- 🎯 Passionate about **Active Directory attacks**, **Privilege Escalation**, and **Automation**
 
 ---
 
 ## 🧰 Skills & Tools
 
-### 🧠 Offensive Security
-<img src="https://img.icons8.com/fluency/48/000000/linux.png"/> 
-<img src="https://img.icons8.com/fluency/48/000000/bash.png"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/metasploit.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/networking-manager.png"/>
-<img src="https://img.icons8.com/color/48/000000/active-directory.png"/>
+### 🕵️ Offensive & Exploitation
+- 🛰 **Nmap** – Network scanning & reconnaissance  
+- 💣 **Metasploit** – Exploitation framework  
+- 🧠 **Ligolo-Ng** – Pivoting & tunneling  
+- 🧱 **NetExec (CrackMapExec)** – Lateral movement  
+- 💉 **Sqlmap** – SQL injection automation  
+- 🔍 **Burp Suite / Caido** – Web exploitation & proxying  
+- 🔑 **Hydra**, **John**, **Hashcat** – Password cracking  
+- 🚀 **Ffuf** – Fuzzing & discovery
 
-### 🧰 Tools
-- 🕵️‍♂️ **Nmap**, **Burp Suite**, **Metasploit**, **BloodHound**, **CrackMapExec**
-- 🐍 **Python**, **Bash**, **PowerShell**
+### 🧰 Other Tools & Skills
+- 🐍 **Python**, 🖥 **Bash**, ⚙️ **PowerShell**
 - 🧱 Virtualization: **VirtualBox**, **Proxmox**, **Docker**
-- 📡 Networking, OSINT & Reporting
+- 🌐 OSINT, Reconnaissance, and Reporting
+- 🧠 Learning: **Malware Development in C**
 
 ---
 
@@ -76,4 +79,3 @@
 ---
 
 💬 *“The quieter you become, the more you are able to hear.”*  
-🧠 *Break systems, learn deeply, document always.*
