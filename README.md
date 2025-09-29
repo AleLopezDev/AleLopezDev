@@ -53,7 +53,7 @@
 
 [<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/alejandrolopezaguilardev/)
 [<img src="https://img.icons8.com/fluency/48/github.png" width="40"/>](https://github.com/AleLopezDev)
-[<img src="https://icons8.com/icon/43591/box" width="40"/>](https://app.hackthebox.com/profile/TUID)
+[<img src="https://img.icons8.com/fluency/48/box.png" width="40"/>](https://app.hackthebox.com/profile/1007071)
 
 
 ---
