@@ -9,11 +9,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alejandro López Aguilar</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AleLopezDev?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/AleLopezDev?style=social)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AleLopezDev.repoName)
-<img src="https://komarev.com/ghpvc/?username=AleLopezDev" alt="profile views" />
-
 ---
 
 ## 🧠 About Me
