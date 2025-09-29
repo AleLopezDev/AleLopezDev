@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="banner" src="./assets/hacker-banner.png" width="300"/>
+    <img alt="banner" src="https://www.pinterest.com/pin/31666003623064376/" width="300"/>
 </div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alejandro López Aguilar</h1>
