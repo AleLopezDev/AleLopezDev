@@ -51,10 +51,10 @@
 
 ## ☕ Connect with Me
 
-[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/TU-LINKEDIN/)
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>](https://www.linkedin.com/in/alejandrolopezaguilardev/)
 [<img src="https://img.icons8.com/fluency/48/github.png" width="40"/>](https://github.com/AleLopezDev)
-[<img src="https://img.icons8.com/fluency/48/hack-the-box.png" width="40"/>](https://app.hackthebox.com/profile/TUID)
-[<img src="https://img.icons8.com/fluency/48/tryhackme.png" width="40"/>](https://tryhackme.com/p/TUUSUARIO)
+[<img src="https://icons8.com/icon/43591/box" width="40"/>](https://app.hackthebox.com/profile/TUID)
+
 
 ---
 
