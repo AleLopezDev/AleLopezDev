@@ -60,7 +60,9 @@
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AleLopezDev&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=AleLopezDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleLopezDev&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AleLopezDev&layout=compact&theme=radical&hide=swift,csharp'/>
+
 
 ---
 
