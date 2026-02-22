@@ -54,23 +54,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleLopezDev&theme=algolia&show_icons=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleLopezDev&theme=algolia&layout=compact" alt="Top Langs" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleLopezDev&theme=algolia" alt="trophy" />
-</div>
-
----
-
 ## 📊 Activity Graph
 
 <div align="center">
